@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FelipeGenuino</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="title_activity_trabalhos">Trabalhos</string>
+    <string name="title_activity_contato">Contato</string>
+    <string name="texto_trabalhos">Trabalhos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione dignissimos qui, placeat. Cumque, enim molestias adipisci ad nesciunt facere eaque voluptas. Esse illum, nemo dignissimos hic sapiente velit consectetur earum?</string>
+    <string name="texto_sobre">Sobre Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione dignissimos qui, placeat. Cumque, enim molestias adipisci ad nesciunt facere eaque voluptas. Esse illum, nemo dignissimos hic sapiente velit consectetur earum?</string>
+    <string name="title_activity_acesso">Acesso</string>
+
+
+    //tela de login
+    <string name="loginLabelUsuario">Nome do usuario</string>
+    <string name="loginEditTextUsuario">Nome do usuario</string>
+
+    <string name="loginLabelSenha">Senha</string>
+
+
+    <string name="loginButtonText">Button</string>
+
+
+    //Action bar
+    <string name="action_search">Pesquisar</string>
+    <string name="action_refresh">Atualizar</string>
+
+
+
+
+
+</resources>
